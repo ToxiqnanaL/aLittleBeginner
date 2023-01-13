@@ -1,8 +1,8 @@
-- 👋 Hi, I’m a little beginner - Zoe
-- 👀 I’m interested in Software Studio, Processing Mining, Data Science, and Machine Learning
-- 🌱 I’m currently learning Python, Matlab, and JavaScript.
+- 👋 Hi, I’m a software developer - Zoe
+- 👀 I’m interested in Software development, Data Science, and Machine Learning
+- 🌱 I’m currently learning Python, Java, and .NET.
 - 💞️ I’m looking to collaborate on enhancing my programming skills.
-- 📫 How to reach me: aLittleBeginner119@gmail.com
+- 📫 How to reach me: vickyliu119@gmail.com
 
 <!---
 aLittleBeginner/aLittleBeginner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
